@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="CANAIS", DISCOVERY TURBO
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryturbo_ca3512f4_53be758d4a7f1d6c1cd569d3e9d070354f39c34b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjExMy4xMTAiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTIgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMTI4NjA2Nzt9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS", ANIMAL PLANET
+https://streaming.cometa.link/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=OdBQH8NZGVa-RPIKdbZBPA&3U1G7qaTxrPbalZnEx=1621322570
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/08/93b93c34bd95b28979fa77a2c983.png" group-title="CANAIS", SporTV
+https://streaming.cometa.link/a/hls1/sportv1-sd.m3u8?mu3zAQc9HC3GbwJq=GvJNcK6fVtXDu6p4t_tASA&3U1G7qaTxrPbalZnEx=1621322999
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="CANAIS", SporTV 2
+https://streaming.cometa.link/a/hls1/sportv1-sd.m3u8?mu3zAQc9HC3GbwJq=GvJNcK6fVtXDu6p4t_tASA&3U1G7qaTxrPbalZnEx=1621322999
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS", SporTV 3
+https://streaming.cometa.link/a/hls1/sportv3.m3u8?mu3zAQc9HC3GbwJq=6mZo3b0FATMvx2WZ5jDBTQ&3U1G7qaTxrPbalZnEx=1621323157
+#EXTINF:-1 tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="CANAIS", NATGEO
+https://streaming.cometa.link/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=q4bSmDfQZ8rFtmVXCA7GZw&3U1G7qaTxrPbalZnEx=1621322378
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg" group-title="CANAIS", TELECINE PIPOCA HD
+https://streaming.cometa.link/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=I74z9oF19HDA16jH_xv8Jw&3U1G7qaTxrPbalZnEx=1621323250
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/09/cine-er%C3%B3tico-en-HBO.png" group-title="CANAIS", HBO
+https://streaming.cometa.link/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=HLXM8ugWePi_TqS3xYR75Q&3U1G7qaTxrPbalZnEx=1621323606
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/goal_uk/ba/55/fox-sports-logo_ky37h444h3dbziet2bpt5vd0.jpg?t=-1800903516&quality=100" group-title="CANAIS", FOX SPORTS
+https://streaming.cometa.link/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=btIH3zuaGihKMFOE88IvNg&3U1G7qaTxrPbalZnEx=1621323316
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/95REtwq4XqSz2Wl0oG0dymrPqxEgfHN2AnHMzxmVEwKnJgXSd8niyaqbhjDT1pZSf-ht8Rnyte2xOsL8stWlI3w_vERfr1J52_cmJFm8_yZsaniuTc7DdkIjPqTy" group-title="CANAIS", FOX SPORTS 2
+https://streaming.cometa.link/a/hls1/foxsports2.m3u8?mu3zAQc9HC3GbwJq=q1ZfzQ_Fifm0rT5QPDICXw&3U1G7qaTxrPbalZnEx=1621323399
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-52-canal-discovery.png" group-title="CANAIS", Discovery Channel
+https://streaming.cometa.link/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=H_wE2zjNGHLefAqurJPEFQ&3U1G7qaTxrPbalZnEx=1621323842
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="CANAIS", SPACE
+https://streaming.cometa.link/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=uuDvPQ4ky7AsKDUOW-S9_Q&3U1G7qaTxrPbalZnEx=1621323961
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1024px-Cartoon_Network_logo.svg.png" group-title="CANAIS", Cartoon Network
+https://streaming.cometa.link/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=k-g5o2_un2LY2_RXRwudsw&3U1G7qaTxrPbalZnEx=1621324134
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CANAIS", TNT
+https://streaming.cometa.link/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=GSf_deDJd0S5IcOOe4qmpA&3U1G7qaTxrPbalZnEx=1621324255
